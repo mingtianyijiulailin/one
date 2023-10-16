@@ -1,0 +1,5 @@
+#inlude <stdio>
+void main(string[] args){
+  printf("dddddd");
+  return 0;
+}
